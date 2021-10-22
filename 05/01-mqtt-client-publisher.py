@@ -4,12 +4,9 @@
 # package paho-mqtt
 import paho.mqtt.client as mqtt
 import time
-import pandas as pd
 from datetime import datetime
 import numpy as np
-import json
 import math
-import sys
 import random
 # This is the Publisher
 
